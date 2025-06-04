@@ -1,0 +1,2 @@
+# course-autonote-generator
+.
